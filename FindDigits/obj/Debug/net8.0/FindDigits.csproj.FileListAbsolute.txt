@@ -1,0 +1,14 @@
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\bin\Debug\net8.0\FindDigits.exe
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\bin\Debug\net8.0\FindDigits.deps.json
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\bin\Debug\net8.0\FindDigits.runtimeconfig.json
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\bin\Debug\net8.0\FindDigits.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\bin\Debug\net8.0\FindDigits.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.AssemblyInfoInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.AssemblyInfo.cs
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.csproj.CoreCompileInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\refint\FindDigits.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\FindDigits.genruntimeconfig.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\FindDigits\obj\Debug\net8.0\ref\FindDigits.dll

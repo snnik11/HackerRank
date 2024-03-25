@@ -1,0 +1,14 @@
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\bin\Debug\net8.0\PickingNumbers.exe
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\bin\Debug\net8.0\PickingNumbers.deps.json
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\bin\Debug\net8.0\PickingNumbers.runtimeconfig.json
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\bin\Debug\net8.0\PickingNumbers.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\bin\Debug\net8.0\PickingNumbers.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.AssemblyInfoInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.AssemblyInfo.cs
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.csproj.CoreCompileInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\refint\PickingNumbers.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\PickingNumbers.genruntimeconfig.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\PickingNumbers\obj\Debug\net8.0\ref\PickingNumbers.dll

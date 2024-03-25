@@ -1,0 +1,14 @@
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\bin\Debug\net8.0\UtopianTree.exe
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\bin\Debug\net8.0\UtopianTree.deps.json
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\bin\Debug\net8.0\UtopianTree.runtimeconfig.json
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\bin\Debug\net8.0\UtopianTree.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\bin\Debug\net8.0\UtopianTree.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.AssemblyInfoInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.AssemblyInfo.cs
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.csproj.CoreCompileInputs.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\refint\UtopianTree.dll
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.pdb
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\UtopianTree.genruntimeconfig.cache
+C:\Nikita\Github_Projects\HackerRankSolutions\UtopianTree\obj\Debug\net8.0\ref\UtopianTree.dll
