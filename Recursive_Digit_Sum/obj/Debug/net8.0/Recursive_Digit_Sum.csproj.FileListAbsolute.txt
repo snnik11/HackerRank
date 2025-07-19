@@ -1,0 +1,12 @@
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\bin\Debug\net8.0\Recursive_Digit_Sum.deps.json
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\bin\Debug\net8.0\Recursive_Digit_Sum.dll
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\bin\Debug\net8.0\Recursive_Digit_Sum.pdb
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.AssemblyInfoInputs.cache
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.AssemblyInfo.cs
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.csproj.CoreCompileInputs.cache
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.sourcelink.json
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.dll
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\refint\Recursive_Digit_Sum.dll
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\Recursive_Digit_Sum.pdb
+C:\Nikita\Github_Projects\HackerRank\Recursive_Digit_Sum\obj\Debug\net8.0\ref\Recursive_Digit_Sum.dll

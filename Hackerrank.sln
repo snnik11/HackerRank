@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank", "Hackerrank\Hackerrank.csproj", "{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Digit_Sum", "Recursive_Digit_Sum\Recursive_Digit_Sum.csproj", "{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A08B24-1D89-4EE0-BF13-84CB8834BE1B}
+	EndGlobalSection
+EndGlobal

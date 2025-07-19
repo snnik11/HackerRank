@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nikita\\Github_Projects\\HackerRank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}|Hackerrank\\Hackerrank.csproj|c:\\nikita\\github_projects\\hackerrank\\hackerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22E847B-C9B0-4BDC-865D-2FDCC99C5A58}|Hackerrank\\Hackerrank.csproj|solutionrelative:hackerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}|Recursive_Digit_Sum\\Recursive_Digit_Sum.csproj|c:\\nikita\\github_projects\\hackerrank\\recursive_digit_sum\\recdigitsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15ED8B0-C32A-47A9-AB70-EB78FDD55438}|Recursive_Digit_Sum\\Recursive_Digit_Sum.csproj|solutionrelative:recursive_digit_sum\\recdigitsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecDigitSum.cs",
+              "DocumentMoniker": "C:\\Nikita\\Github_Projects\\HackerRank\\Recursive_Digit_Sum\\RecDigitSum.cs",
+              "RelativeDocumentMoniker": "Recursive_Digit_Sum\\RecDigitSum.cs",
+              "ToolTip": "C:\\Nikita\\Github_Projects\\HackerRank\\Recursive_Digit_Sum\\RecDigitSum.cs",
+              "RelativeToolTip": "Recursive_Digit_Sum\\RecDigitSum.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:53:42.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nikita\\Github_Projects\\HackerRank\\Hackerrank\\Program.cs",
+              "RelativeDocumentMoniker": "Hackerrank\\Program.cs",
+              "ToolTip": "C:\\Nikita\\Github_Projects\\HackerRank\\Hackerrank\\Program.cs",
+              "RelativeToolTip": "Hackerrank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:52:04.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
